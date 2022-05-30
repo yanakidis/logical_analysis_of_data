@@ -1,2 +1,3 @@
-# logical_analysis_of_data
+# Logical Analysis of Data
+
 3rd year coursework, CMC MSU, MMP
