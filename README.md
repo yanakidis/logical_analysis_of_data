@@ -2,4 +2,4 @@
 
 3rd year coursework, CMC MSU, MMP department
 
-**jsm.cpp** - implementation of jsm-method on C++
+**jsm.cpp** - implementation of JSM-method on C++
